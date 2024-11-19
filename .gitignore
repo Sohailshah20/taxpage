@@ -36,3 +36,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 db/migration/**
+
+# sst
+.sst
+
+# open-next
+.open-next
